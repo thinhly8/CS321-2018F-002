@@ -1,6 +1,4 @@
 
-
-
 import java.util.Random;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -332,8 +330,21 @@ public class GameCore implements GameCoreInterface {
         else {
             return null;
         }
-    }    
+<<<<<<< HEAD
+    } 
     
+     /**
+     * Returns a list of nearby players you can gift
+     * @param name Player Name
+     * @return String representation of nearby players.
+     */
+    public String giftable(String playerName) {
+        Player player = playerList.findPlayer(playerName);
+        if(player != null) {        
+            // Find the room the player is in.
+            Room room = this.map.findRoom(player.getCurrentRoom());
+=======
+    }    
     @Override
     public String money(String name) {
         Player player = this.playerList.findPlayer(name);
@@ -344,7 +355,6 @@ public class GameCore implements GameCoreInterface {
             return null;
         }
     }    
-    
     @Override 
     public String gift(String yourname ,String name){
      Player player = this.playerList.findPlayer(name); 
@@ -360,7 +370,18 @@ public class GameCore implements GameCoreInterface {
       
     }
 
+>>>>>>> master
 
+            // Return a string representation of players in teh same room
+            String gift_list = "\nGiftable players near you: " + room.getPlayers(this.playerList);
+            gift_list = gift_list.replace(playerName, "");
+            return gift_list;
+        }
+        // No such player exists
+        else {
+            return null;
+        }
+    }  
      /**
      * Leaves the game.
      * @param name Name of the player to leave
