@@ -1,3 +1,5 @@
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -55,10 +57,9 @@ public class GameClient {
         System.out.println("  MOVE distance - Tries to walk forward <distance> times.");
         System.out.println("  PICKUP obect  - Tries to pick up an object in the same area.");
         System.out.println("  INVENTORY     - Shows you what objects you have collected.");
-        System.out.println("  GIFTABLE     - Shows you players in the same room you can gift money.");
         System.out.println("  GIFT          - Offer to give another player money.");
+        // allow user to see how much money they have
         System.out.println("  MONEY         - Shows you how much money you have.");
->>>>>>> master
         System.out.println("  QUIT          - Quits the game.");
         System.out.println();
         
@@ -204,12 +205,8 @@ public class GameClient {
                     break;
                 case "INVENTORY":
                     System.out.println(remoteGameInterface.inventory(this.playerName));
-<<<<<<< HEAD
-                    break;
-                case "GIFTABLE":
-                    System.out.println(remoteGameInterface.giftable(this.playerName));
-                    break;
-=======
+                    break; 
+                // add in the case of printing money 
                 case "MONEY":
                     System.out.println(remoteGameInterface.money(this.playerName));
                     break; 
@@ -221,7 +218,6 @@ public class GameClient {
                 }
                 break;
                 
->>>>>>> master
                 case "QUIT":
                     remoteGameInterface.leave(this.playerName);
                     runListener = false;
@@ -237,6 +233,7 @@ public class GameClient {
    System.out.println("[SHUTDOWN] .. This program requires one argument. Run as java -Djava.security.policy=game.policy GameClient hostname");
    System.exit(-1);
   }
+  
         System.out.println("[STARTUP] Game Client Now Starting...");
         new GameClient(args[0]);
     }
@@ -252,6 +249,7 @@ public class GameClient {
   public ReplyRemote(String host) {
    this.host = host;
   }
+  
         @Override
         public void run() {
             // This thread is interruptable, which will allow it to clean up before
