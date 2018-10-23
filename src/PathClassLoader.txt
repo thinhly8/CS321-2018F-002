@@ -1,368 +1,104 @@
-21 Oct 2018 19:16:35 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 19:16:35 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 19:16:35 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 19:16:53 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 19:16:53 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:16:59 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 19:16:59 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:18:13 GMT: PathClassLoader.findClass(oneDollar) called
-21 Oct 2018 19:18:13 GMT: findResource(oneDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:22:04 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 19:22:04 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 19:22:04 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 19:22:12 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 19:22:12 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:22:16 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 19:22:16 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:22:24 GMT: PathClassLoader.findClass(oneDollar) called
-21 Oct 2018 19:22:24 GMT: findResource(oneDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:22:43 GMT: PathClassLoader.findClass(fiveDollar) called
-21 Oct 2018 19:22:43 GMT: findResource(fiveDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:22:55 GMT: PathClassLoader.findClass(tenDollar) called
-21 Oct 2018 19:22:55 GMT: findResource(tenDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:24:33 GMT: PathClassLoader.findClass(clear) called
-21 Oct 2018 19:24:33 GMT: findResource(clear.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:24:33 GMT: PathClassLoader.findClass(java.lang.clear) called
-21 Oct 2018 19:24:33 GMT: findResource(java/lang/clear.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:24:33 GMT: PathClassLoader.findClass(clear) called
-21 Oct 2018 19:24:33 GMT: findResource(clear.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:24:33 GMT: PathClassLoader.findClass(clear) called
-21 Oct 2018 19:24:33 GMT: findResource(clear.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:24:45 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 19:24:45 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 19:24:45 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 19:24:51 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 19:24:51 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:24:58 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 19:24:58 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:25:11 GMT: PathClassLoader.findClass(fiftyDollar) called
-21 Oct 2018 19:25:11 GMT: findResource(fiftyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:25:28 GMT: PathClassLoader.findClass(hundredDollar) called
-21 Oct 2018 19:25:28 GMT: findResource(hundredDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:12 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 19:26:12 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:12 GMT: PathClassLoader.findClass(java.lang.ArrayList) called
-21 Oct 2018 19:26:12 GMT: findResource(java/lang/ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:12 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 19:26:12 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:12 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 19:26:12 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:12 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 19:26:12 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:12 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 19:26:12 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:12 GMT: PathClassLoader.findClass(java.lang.ArrayList) called
-21 Oct 2018 19:26:12 GMT: findResource(java/lang/ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:12 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 19:26:12 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:17 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 19:26:17 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:17 GMT: PathClassLoader.findClass(java.lang.java) called
-21 Oct 2018 19:26:17 GMT: findResource(java/lang/java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:17 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 19:26:17 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:17 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 19:26:17 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:17 GMT: PathClassLoader.findClass(java.util) called
-21 Oct 2018 19:26:17 GMT: findResource(java/util.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:17 GMT: PathClassLoader.findClass(java.util) called
-21 Oct 2018 19:26:17 GMT: findResource(java/util.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:19 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 19:26:19 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:19 GMT: PathClassLoader.findClass(java.lang.java) called
-21 Oct 2018 19:26:19 GMT: findResource(java/lang/java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:19 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 19:26:19 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:19 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 19:26:19 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:19 GMT: PathClassLoader.findClass(java.util) called
-21 Oct 2018 19:26:19 GMT: findResource(java/util.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:26:19 GMT: PathClassLoader.findClass(java.util) called
-21 Oct 2018 19:26:19 GMT: findResource(java/util.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:28:28 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 19:28:28 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 19:28:28 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 19:28:40 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 19:28:40 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:28:59 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 19:28:59 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:28:59 GMT: PathClassLoader.findClass(oneDollar) called
-21 Oct 2018 19:28:59 GMT: findResource(oneDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:44:49 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 19:44:49 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 19:44:49 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 19:44:58 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 19:44:58 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:44:58 GMT: PathClassLoader.findClass(java.lang.java) called
-21 Oct 2018 19:44:58 GMT: findResource(java/lang/java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:44:58 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 19:44:58 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:44:58 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 19:44:58 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:44:58 GMT: PathClassLoader.findClass(java.util) called
-21 Oct 2018 19:44:58 GMT: findResource(java/util.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:44:58 GMT: PathClassLoader.findClass(java.util) called
-21 Oct 2018 19:44:58 GMT: findResource(java/util.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:45:02 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 19:45:02 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:45:06 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 19:45:06 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:45:06 GMT: PathClassLoader.findClass(oneDollar) called
-21 Oct 2018 19:45:06 GMT: findResource(oneDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:45:08 GMT: PathClassLoader.findClass(fiveDollar) called
-21 Oct 2018 19:45:08 GMT: findResource(fiveDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:45:08 GMT: PathClassLoader.findClass(tenDollar) called
-21 Oct 2018 19:45:08 GMT: findResource(tenDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:45:08 GMT: PathClassLoader.findClass(twentyDollar) called
-21 Oct 2018 19:45:08 GMT: findResource(twentyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:45:08 GMT: PathClassLoader.findClass(fiftyDollar) called
-21 Oct 2018 19:45:08 GMT: findResource(fiftyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:45:08 GMT: PathClassLoader.findClass(hundredDollar) called
-21 Oct 2018 19:45:08 GMT: findResource(hundredDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:45:58 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 19:45:58 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 19:45:58 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 19:46:02 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 19:46:02 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:46:04 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 19:46:04 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:46:04 GMT: PathClassLoader.findClass(oneDollar) called
-21 Oct 2018 19:46:04 GMT: findResource(oneDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:46:13 GMT: PathClassLoader.findClass(fiveDollar) called
-21 Oct 2018 19:46:13 GMT: findResource(fiveDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:46:13 GMT: PathClassLoader.findClass(tenDollar) called
-21 Oct 2018 19:46:13 GMT: findResource(tenDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:46:13 GMT: PathClassLoader.findClass(twentyDollar) called
-21 Oct 2018 19:46:13 GMT: findResource(twentyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:46:13 GMT: PathClassLoader.findClass(fiftyDollar) called
-21 Oct 2018 19:46:13 GMT: findResource(fiftyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:46:13 GMT: PathClassLoader.findClass(hundredDollar) called
-21 Oct 2018 19:46:13 GMT: findResource(hundredDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:14 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 19:47:14 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 19:47:14 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 19:47:19 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 19:47:19 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:21 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 19:47:21 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:21 GMT: PathClassLoader.findClass(oneDollar) called
-21 Oct 2018 19:47:21 GMT: findResource(oneDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:23 GMT: PathClassLoader.findClass(fiveDollar) called
-21 Oct 2018 19:47:23 GMT: findResource(fiveDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:23 GMT: PathClassLoader.findClass(tenDollar) called
-21 Oct 2018 19:47:23 GMT: findResource(tenDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:23 GMT: PathClassLoader.findClass(twentyDollar) called
-21 Oct 2018 19:47:23 GMT: findResource(twentyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:23 GMT: PathClassLoader.findClass(fiftyDollar) called
-21 Oct 2018 19:47:23 GMT: findResource(fiftyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:23 GMT: PathClassLoader.findClass(hundredDollar) called
-21 Oct 2018 19:47:23 GMT: findResource(hundredDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:47 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 19:47:47 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 19:47:47 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 19:47:50 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 19:47:50 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:51 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 19:47:51 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:51 GMT: PathClassLoader.findClass(oneDollar) called
-21 Oct 2018 19:47:51 GMT: findResource(oneDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:54 GMT: PathClassLoader.findClass(fiveDollar) called
-21 Oct 2018 19:47:54 GMT: findResource(fiveDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:54 GMT: PathClassLoader.findClass(tenDollar) called
-21 Oct 2018 19:47:54 GMT: findResource(tenDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:54 GMT: PathClassLoader.findClass(twentyDollar) called
-21 Oct 2018 19:47:54 GMT: findResource(twentyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:54 GMT: PathClassLoader.findClass(fiftyDollar) called
-21 Oct 2018 19:47:54 GMT: findResource(fiftyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:47:54 GMT: PathClassLoader.findClass(hundredDollar) called
-21 Oct 2018 19:47:54 GMT: findResource(hundredDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:54:57 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 19:54:57 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 19:54:57 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 19:55:03 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 19:55:03 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:55:03 GMT: PathClassLoader.findClass(twentyDollar) called
-21 Oct 2018 19:55:03 GMT: findResource(twentyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:55:03 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 19:55:03 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:56:04 GMT: PathClassLoader.findClass(oneDollar) called
-21 Oct 2018 19:56:04 GMT: findResource(oneDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:56:05 GMT: PathClassLoader.findClass(fiveDollar) called
-21 Oct 2018 19:56:05 GMT: findResource(fiveDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:56:05 GMT: PathClassLoader.findClass(tenDollar) called
-21 Oct 2018 19:56:05 GMT: findResource(tenDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:56:05 GMT: PathClassLoader.findClass(fiftyDollar) called
-21 Oct 2018 19:56:05 GMT: findResource(fiftyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 19:56:05 GMT: PathClassLoader.findClass(hundredDollar) called
-21 Oct 2018 19:56:05 GMT: findResource(hundredDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:14:55 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 20:14:55 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 20:14:55 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 20:15:05 GMT: PathClassLoader.findClass(Coin) called
-21 Oct 2018 20:15:05 GMT: findResource(Coin.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:15:17 GMT: PathClassLoader.findClass(Quarter) called
-21 Oct 2018 20:15:17 GMT: findResource(Quarter.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:16:08 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 20:16:08 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 20:16:08 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 20:16:11 GMT: PathClassLoader.findClass(Quarter) called
-21 Oct 2018 20:16:11 GMT: findResource(Quarter.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:16:11 GMT: PathClassLoader.findClass(Coin) called
-21 Oct 2018 20:16:11 GMT: findResource(Coin.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:17:32 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 20:17:32 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 20:17:32 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 20:17:35 GMT: PathClassLoader.findClass(Quarter) called
-21 Oct 2018 20:17:35 GMT: findResource(Quarter.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:17:35 GMT: PathClassLoader.findClass(Coin) called
-21 Oct 2018 20:17:35 GMT: findResource(Coin.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:17:45 GMT: PathClassLoader.findClass(Penny) called
-21 Oct 2018 20:17:45 GMT: findResource(Penny.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:26:29 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 20:26:29 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 20:26:29 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 20:27:07 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 20:27:07 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 20:27:07 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 20:27:18 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 20:27:18 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:18 GMT: PathClassLoader.findClass(twentyDollar) called
-21 Oct 2018 20:27:18 GMT: findResource(twentyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:18 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 20:27:18 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:23 GMT: PathClassLoader.findClass(oneDollar) called
-21 Oct 2018 20:27:23 GMT: findResource(oneDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:25 GMT: PathClassLoader.findClass(fiveDollar) called
-21 Oct 2018 20:27:25 GMT: findResource(fiveDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:25 GMT: PathClassLoader.findClass(tenDollar) called
-21 Oct 2018 20:27:25 GMT: findResource(tenDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:25 GMT: PathClassLoader.findClass(fiftyDollar) called
-21 Oct 2018 20:27:25 GMT: findResource(fiftyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:25 GMT: PathClassLoader.findClass(hundredDollar) called
-21 Oct 2018 20:27:25 GMT: findResource(hundredDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:25 GMT: PathClassLoader.findClass(Coin) called
-21 Oct 2018 20:27:25 GMT: findResource(Coin.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:25 GMT: PathClassLoader.findClass(Penny) called
-21 Oct 2018 20:27:25 GMT: findResource(Penny.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:25 GMT: PathClassLoader.findClass(Nickel) called
-21 Oct 2018 20:27:25 GMT: findResource(Nickel.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:25 GMT: PathClassLoader.findClass(Dime) called
-21 Oct 2018 20:27:25 GMT: findResource(Dime.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:27:25 GMT: PathClassLoader.findClass(Quarter) called
-21 Oct 2018 20:27:25 GMT: findResource(Quarter.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:38 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 20:28:38 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 20:28:38 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 20:28:41 GMT: PathClassLoader.findClass(Money) called
-21 Oct 2018 20:28:41 GMT: findResource(Money.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:41 GMT: PathClassLoader.findClass(twentyDollar) called
-21 Oct 2018 20:28:41 GMT: findResource(twentyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:41 GMT: PathClassLoader.findClass(Dollar) called
-21 Oct 2018 20:28:41 GMT: findResource(Dollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:43 GMT: PathClassLoader.findClass(oneDollar) called
-21 Oct 2018 20:28:43 GMT: findResource(oneDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:45 GMT: PathClassLoader.findClass(fiveDollar) called
-21 Oct 2018 20:28:45 GMT: findResource(fiveDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:45 GMT: PathClassLoader.findClass(tenDollar) called
-21 Oct 2018 20:28:45 GMT: findResource(tenDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:45 GMT: PathClassLoader.findClass(fiftyDollar) called
-21 Oct 2018 20:28:45 GMT: findResource(fiftyDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:45 GMT: PathClassLoader.findClass(hundredDollar) called
-21 Oct 2018 20:28:45 GMT: findResource(hundredDollar.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:45 GMT: PathClassLoader.findClass(Coin) called
-21 Oct 2018 20:28:45 GMT: findResource(Coin.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:45 GMT: PathClassLoader.findClass(Penny) called
-21 Oct 2018 20:28:45 GMT: findResource(Penny.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:45 GMT: PathClassLoader.findClass(Nickel) called
-21 Oct 2018 20:28:45 GMT: findResource(Nickel.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:45 GMT: PathClassLoader.findClass(Dime) called
-21 Oct 2018 20:28:45 GMT: findResource(Dime.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 20:28:45 GMT: PathClassLoader.findClass(Quarter) called
-21 Oct 2018 20:28:45 GMT: findResource(Quarter.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:07 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:07 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:07 GMT: PathClassLoader.findClass(java.lang.java) called
-21 Oct 2018 21:13:07 GMT: findResource(java/lang/java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:07 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:07 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:07 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:07 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:07 GMT: PathClassLoader.findClass(java.utils) called
-21 Oct 2018 21:13:07 GMT: findResource(java/utils.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:07 GMT: PathClassLoader.findClass(java.utils) called
-21 Oct 2018 21:13:07 GMT: findResource(java/utils.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:07 GMT: PathClassLoader.findClass(java.utils.ArrayList) called
-21 Oct 2018 21:13:07 GMT: findResource(java/utils/ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:07 GMT: PathClassLoader.findClass(java.utils.ArrayList) called
-21 Oct 2018 21:13:07 GMT: findResource(java/utils/ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:08 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java.lang.java) called
-21 Oct 2018 21:13:08 GMT: findResource(java/lang/java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:08 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:08 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java.utils) called
-21 Oct 2018 21:13:08 GMT: findResource(java/utils.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java.utils) called
-21 Oct 2018 21:13:08 GMT: findResource(java/utils.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java.utils.ArrayList) called
-21 Oct 2018 21:13:08 GMT: findResource(java/utils/ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java.utils.ArrayList) called
-21 Oct 2018 21:13:08 GMT: findResource(java/utils/ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:08 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java.lang.java) called
-21 Oct 2018 21:13:08 GMT: findResource(java/lang/java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:08 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:08 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java.utils) called
-21 Oct 2018 21:13:08 GMT: findResource(java/utils.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java.utils) called
-21 Oct 2018 21:13:08 GMT: findResource(java/utils.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java.utils.ArrayList) called
-21 Oct 2018 21:13:08 GMT: findResource(java/utils/ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:08 GMT: PathClassLoader.findClass(java.utils.ArrayList) called
-21 Oct 2018 21:13:08 GMT: findResource(java/utils/ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:33 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 21:13:33 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:33 GMT: PathClassLoader.findClass(java.lang.ArrayList) called
-21 Oct 2018 21:13:33 GMT: findResource(java/lang/ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:33 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 21:13:33 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:33 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 21:13:33 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:33 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 21:13:33 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:33 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 21:13:33 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:33 GMT: PathClassLoader.findClass(java.lang.ArrayList) called
-21 Oct 2018 21:13:33 GMT: findResource(java/lang/ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:33 GMT: PathClassLoader.findClass(ArrayList) called
-21 Oct 2018 21:13:33 GMT: findResource(ArrayList.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:36 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:36 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:36 GMT: PathClassLoader.findClass(java.lang.java) called
-21 Oct 2018 21:13:36 GMT: findResource(java/lang/java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:36 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:36 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:36 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:13:36 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:36 GMT: PathClassLoader.findClass(java.util) called
-21 Oct 2018 21:13:36 GMT: findResource(java/util.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:13:36 GMT: PathClassLoader.findClass(java.util) called
-21 Oct 2018 21:13:36 GMT: findResource(java/util.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:17:11 GMT: PathClassLoader.findClass(Arrays) called
-21 Oct 2018 21:17:11 GMT: findResource(Arrays.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:17:11 GMT: PathClassLoader.findClass(java.lang.Arrays) called
-21 Oct 2018 21:17:11 GMT: findResource(java/lang/Arrays.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:17:11 GMT: PathClassLoader.findClass(Arrays) called
-21 Oct 2018 21:17:11 GMT: findResource(Arrays.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:17:11 GMT: PathClassLoader.findClass(Arrays) called
-21 Oct 2018 21:17:11 GMT: findResource(Arrays.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:17:26 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:17:26 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:17:26 GMT: PathClassLoader.findClass(java.lang.java) called
-21 Oct 2018 21:17:26 GMT: findResource(java/lang/java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:17:26 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:17:26 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:17:26 GMT: PathClassLoader.findClass(java) called
-21 Oct 2018 21:17:26 GMT: findResource(java.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:17:26 GMT: PathClassLoader.findClass(java.util) called
-21 Oct 2018 21:17:26 GMT: findResource(java/util.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:17:26 GMT: PathClassLoader.findClass(java.util) called
-21 Oct 2018 21:17:26 GMT: findResource(java/util.class) called; _path is [, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Documents\GitHub\CS321-2018F-002\src, C:\Users\taang\Desktop\drjava-gmu.jar]
-21 Oct 2018 21:23:17 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 21:23:17 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 21:23:17 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 21:35:58 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 21:35:58 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 21:35:58 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
-21 Oct 2018 21:38:00 GMT: Log 'PathClassLoader.txt' opened: 21 Oct 2018 21:38:00 GMT with name C:\Users\taang\Documents\GitHub\CS321-2018F-002\src\PathClassLoader.txt
-21 Oct 2018 21:38:00 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[C:\Users\taang\Desktop\drjava-gmu.jar]'
+22 Oct 2018 16:12:22 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 16:12:22 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 16:12:22 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 16:20:07 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 16:20:07 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 16:20:07 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 16:20:36 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 16:20:36 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 16:20:36 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 16:21:16 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 16:21:16 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 16:21:16 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 16:33:19 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 16:33:19 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 16:33:19 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 16:34:28 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 16:34:28 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 16:34:28 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 16:38:39 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 16:38:39 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 16:38:39 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 16:49:06 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 16:49:06 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 16:49:06 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 16:53:14 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 16:53:14 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 16:53:14 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 16:57:15 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 16:57:15 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 16:57:15 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 17:00:17 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 17:00:17 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 17:00:17 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 17:01:13 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 17:01:13 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 17:01:13 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 17:04:59 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 17:04:59 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 17:04:59 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 17:05:25 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 17:05:25 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 17:05:25 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 17:09:07 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 17:09:07 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 17:09:07 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 17:12:58 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 17:12:58 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 17:12:58 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 18:55:16 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 18:55:16 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 18:55:16 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+22 Oct 2018 18:59:07 GMT: Log 'PathClassLoader.txt' opened: 22 Oct 2018 18:59:07 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+22 Oct 2018 18:59:07 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:34:15 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:34:15 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:34:15 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:34:47 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:34:47 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:34:47 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:36:45 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:36:45 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:36:45 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:36:52 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:36:52 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:36:52 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:38:34 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:38:34 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:38:34 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:39:23 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:39:23 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:39:23 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:43:14 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:43:14 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:43:14 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:48:18 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:48:18 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:48:18 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:48:27 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:48:27 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:48:27 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:51:10 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:51:10 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:51:10 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:51:48 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:51:48 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:51:48 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:51:56 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:51:56 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:51:56 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 2:52:50 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 2:52:50 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 2:52:50 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:02:13 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:02:13 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:02:13 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:02:18 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:02:18 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:02:18 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:02:45 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:02:45 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:02:45 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:02:56 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:02:56 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:02:56 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:11:05 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:11:05 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:11:05 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:12:01 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:12:01 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:12:01 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:12:12 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:12:12 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:12:12 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:16:03 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:16:03 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:16:03 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:16:26 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:16:26 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:16:26 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:17:33 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:17:33 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:17:33 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:29:05 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:29:05 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:29:05 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:29:55 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:29:55 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:29:55 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:34:07 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:34:07 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:34:07 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:34:16 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:34:16 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:34:16 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:37:19 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:37:19 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:37:19 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:39:54 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:39:54 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:39:54 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:41:12 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:41:12 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:41:12 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 3:42:11 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 3:42:11 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 3:42:11 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 18:33:23 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 18:33:23 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 18:33:23 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 18:34:28 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 18:34:28 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 18:34:28 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'
+23 Oct 2018 18:34:41 GMT: Log 'PathClassLoader.txt' opened: 23 Oct 2018 18:34:41 GMT with name /Users/Adeel/CS321/CS321-2018F-002/src/PathClassLoader.txt
+23 Oct 2018 18:34:41 GMT: Constructing PathClassLoader with parent sun.misc.Launcher$AppClassLoader@18b4aac2 and path '[/Users/Adeel/Downloads/drjava-gmu.jar]'

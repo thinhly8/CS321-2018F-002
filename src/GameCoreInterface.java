@@ -20,7 +20,7 @@ public interface GameCoreInterface {
      */   
     public void broadcast(Room room, String message);
     
-    public String gift(String playerName, String name); 
+    public String gift(String playerName, String name,Double amount); 
     
     /**
      * Returns the player with the given name or null if no such player.
