@@ -375,6 +375,9 @@ public class GameCore implements GameCoreInterface {
       
   
         if(receiver != null){
+          if(you.getMoney().sum() < amount){
+           return "NOT ENOUGH MONEY!";  
+          }
             this.broadcast(you, you.getName() + " offers a gift to " + receiver.getName());
            Scanner read = new Scanner(System.in);
            
