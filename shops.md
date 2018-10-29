@@ -29,13 +29,14 @@ Gifting is a command that allows users to interact with one another. It allows a
 
 When the gift command is called it uses the given parameters and calls the method in gamecore which prompts the receiver to accept or deny the gift. Each user is a player object and has an array of money linked to them. This array is changed by the giveMoney() method in the player class which is run by the gamecore class if the user accepts the gift. GiveMoney has three fields, the giver, receiver, and amount (these were passed on from the gameclient). It takes an amount and runs a while loop (same number as times as the amount) that takes each dollar and puts it in the receiver’s money array, it then prints a message for the receiver stating they have been given money. The giveMoney method then returns a money object that was created using the amount given. 
 
+![](adeel.png)
 
 ## Units of money - Tram-Anh Nguyen
 
 ### For Users:
 
 Money in this game mirrors the units of money we have in American dollars and coins (ie: one dollar bills, five dollars bills, quarters, pennies, and so on). Each player will be provided 20 one dollars bills at the start of the game. To see a printout of your player money at any point in the game, type in the command 'money' into your terminal. 
-![](money_screenshot.png)
+![](tascreen.PNG)
 Throughout the game, players can carry out transactions such as giving money to friends, or selling items to the game shop. As of now, there is no bank available in the game, so players cannot exchange dollars or coins for different units of money (ie: a five dollar bill cannot be broken into five one dollar bills). 
 ### For developers: 
 Money is the parent class of Dollar and Coin. Dollar is the parent class of all dollar units of money. Coin is the parent class of all coin units of money. The hierarchy below illustrates the units of money available in this game: 
@@ -68,3 +69,4 @@ There is currently only one shop in the game. This shop is located at the clock 
 ####For Developers:
 
 Shops are initialized and used when the server begins running in the GameCore class. At the moment, there is only one shop and it is created and referred to in GameCore as a private final class field. More shops can be added by adding more private variables or by creating some sort of data structure to store multiple shops. Shops will keep track of all players who are currently in the shop. This is useful when determining if a player can perform some action (e.g sell). Shops have a nested inner class called ItemStock used only for displaying purposes in Shop.displayShop(). Instead of displaying multiple flowers, it will list flowers with their multiplicities. 
+![](jonathan.PNG)
