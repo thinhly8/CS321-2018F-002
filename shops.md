@@ -69,4 +69,5 @@ There is currently only one shop in the game. This shop is located at the clock 
 ####For Developers:
 
 Shops are initialized and used when the server begins running in the GameCore class. At the moment, there is only one shop and it is created and referred to in GameCore as a private final class field. More shops can be added by adding more private variables or by creating some sort of data structure to store multiple shops. Shops will keep track of all players who are currently in the shop. This is useful when determining if a player can perform some action (e.g sell). Shops have a nested inner class called ItemStock used only for displaying purposes in Shop.displayShop(). Instead of displaying multiple flowers, it will list flowers with their multiplicities. 
-![](jonathan.PNG)
+
+![](jonathan.PNG) 
