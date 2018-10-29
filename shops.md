@@ -36,7 +36,9 @@ When the gift command is called it uses the given parameters and calls the metho
 ### For Users:
 
 Money in this game mirrors the units of money we have in American dollars and coins (ie: one dollar bills, five dollars bills, quarters, pennies, and so on). Each player will be provided 20 one dollars bills at the start of the game. To see a printout of your player money at any point in the game, type in the command 'money' into your terminal. 
+
 ![](tascreen.PNG)
+
 Throughout the game, players can carry out transactions such as giving money to friends, or selling items to the game shop. As of now, there is no bank available in the game, so players cannot exchange dollars or coins for different units of money (ie: a five dollar bill cannot be broken into five one dollar bills). 
 ### For developers: 
 Money is the parent class of Dollar and Coin. Dollar is the parent class of all dollar units of money. Coin is the parent class of all coin units of money. The hierarchy below illustrates the units of money available in this game: 
