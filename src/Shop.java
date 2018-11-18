@@ -54,7 +54,7 @@ public class Shop {
   itemList = ItemParser.parse("./ItemListCSV.csv"); //list of all items
   inDemand = new ArrayList<Item>(numInDemand); //array to hold random items that are in demand
   for(int i = 0; i < numInDemand; i++) {
-	  inDemand.add(itemList.get(rand.nextInt(itemList.size())));
+   inDemand.add(itemList.get(rand.nextInt(itemList.size())));
   }
  }
  
@@ -65,13 +65,13 @@ public class Shop {
  public boolean sellItem(Item obj) {
   boolean demanded = false; //if the item is in demand, return true
   for(int i = 0; i < this.numInDemand; i++) { //is obj an item in demand
-	  if(obj.getItemName().equalsIgnoreCase(this.inDemand.get(i).getItemName())) {
-		  demanded = true; //obj was found in the demand list
-		  //item no longer in demand, add a new random item to be in demand
-		  this.inDemand.remove(i);
-		  this.inDemand.add(i, this.itemList.get(this.rand.nextInt(itemList.size())));
-		  break;
-	  }
+   if(obj.getItemName().equalsIgnoreCase(this.inDemand.get(i).getItemName())) {
+    demanded = true; //obj was found in the demand list
+    //item no longer in demand, add a new random item to be in demand
+    this.inDemand.remove(i);
+    this.inDemand.add(i, this.itemList.get(this.rand.nextInt(itemList.size())));
+    break;
+   }
   }
   if(items.size() >= maxSize) { //if shop full, remove first item
    items.remove(0);
@@ -92,7 +92,7 @@ public class Shop {
          if(obj.getItemName().equalsIgnoreCase(itemName)) {
              double cost = obj.getItemValue() * 1.2;
              if(player.getMoney().sum() >= cost){
-                 //add item to player inventory and update inventory and bool
+                 //add item to player inventory and update
                  inventory.add(obj);
                  player.setCurrentInventory(inventory);
                  //remove money from player
@@ -136,7 +136,7 @@ public class Shop {
   * Builds the string to represent the shop
   * @return String representation of shop
   */
- public String displayShop() {
+ public synchronized String displayShop() {
   //preprocessing to build up the list of items with their multiplicities using ItemStock
   //so that multiple items only show up once
   ArrayList<ItemStock> itemList = new ArrayList<ItemStock>();
@@ -154,20 +154,22 @@ public class Shop {
   //display items in demand
   result += "Items in demand:\n";
   for(int i = 0; i < inDemand.size(); i++) {
-	  result += " 	" + inDemand.get(i).getItemName() + "\n";
+   result += "  " + inDemand.get(i).getItemName() + "\n";
   }
   //display items currently in the shop
-  result += "\nAMOUNT ................ ITEM/PRICE\n";
+  result += "\nSHOP INVENTORY\n";
+  result += "AMOUNT ................ ITEM/PRICE\n";
   if(items.size() == 0)
-   result += "shop is empty\n";
+   result += "Shop is currently empty.\n";
   for(ItemStock item : itemList) {
    result += "" + item.amount + " ..................... " + item.itemName + " $" + (String.format("%.2f",item.value)) +"\n";
   }
-  result += "To sell an item enter SELL <ITEM>\nTo buy an item enter BUY <ITEM>\n\n";
+  result += "To sell an item enter SELL <ITEM>\n" + "To buy an item enter BUY <ITEM>\n";
+  result += "To exit the shop enter LEAVE SHOP or MOVE <ANY DIRECTION>\n\n";
   return result;
  }
  
  public ArrayList<Item> getInDemand(){
-	 return this.inDemand;
+  return this.inDemand;
  }
 }
